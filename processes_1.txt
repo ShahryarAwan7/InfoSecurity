@@ -1,0 +1,73 @@
+PID   PPID   Name               Arch  Session  User                       Path
+
+---   ----   ----               ----  -------  ----                       ----
+
+  0     0    [Idle Task]
+
+  4     0    CoreService        x64   0
+
+ 317    9    bootmanager.exe    x64   0        NT AUTHORITY\SYSTEM        \Windows\System32\bootmanager.exe
+
+ 379   317   sessionstart.exe   x64   1        NT AUTHORITY\SYSTEM        C:\Windows\system32\sessionstart.exe
+
+ 421   317   winservice.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\winservice.exe
+
+ 483   421   hostagent.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\hostagent.exe
+
+ 537   483   netservice.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\netservice.exe
+
+ 591   483   dbservice.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\dbservice.exe
+
+ 651   483   auditdaemon.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\auditdaemon.exe
+
+ 723   421   processmanager.exe x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\processmanager.exe
+
+ 785   483   commserver.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\commserver.exe
+
+ 829   421   syslog.exe         x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\syslog.exe
+
+ 883   483   taskservice.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\taskservice.exe
+
+ 943   483   explorerhost.exe   x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\explorerhost.exe
+
+ 1007  483   updatehost.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\updatehost.exe
+
+ 1069  1007  adminconsole.exe   x64   1        NT AUTHORITY\SYSTEM        C:\Windows\System32\adminconsole.exe
+
+ 1131  1069  shellcore.exe      x64   1        NT AUTHORITY\SYSTEM        C:\Windows\System32\shellcore.exe
+
+ 1203  1131  appdispatcher.exe  x64   1        NT AUTHORITY\SYSTEM        C:\Program Files\Applications\appdispatcher.exe
+
+ 1275  1203  webserver.exe      x64   1        NT AUTHORITY\SYSTEM        C:\Program Files\WebServer\webserver.exe
+
+ 1339  1275  dataprocessor.exe  x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\DataProcessor\dataprocessor.exe
+
+ 1401  1339  graphictool.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\GraphicsTool\graphictool.exe
+
+ 1465  1401  docsmanager.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\DocsManager\docsmanager.exe
+
+ 1527  1465  mediaplayer.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\MediaPlayer\mediaplayer.exe
+
+ 1591  1527  mailclient.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\MailClient\mailclient.exe
+
+ 1653  1591  taskcontrol.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\TaskControl\taskcontrol.exe
+
+ 1717  1653  netviewer.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\NetViewer\netviewer.exe
+
+ 1781  1717  chatservice.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\ChatService\chatservice.exe
+
+ 1843  1781  backup.exe         x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\backup.exe
+
+ 1907  1843  filehandler.exe    x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\filehandler.exe
+
+ 1971  1907  regtool.exe        x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\regtool.exe
+
+ 2033  1971  youtube.exe        x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\YouTube\youtube.exe
+
+ 2105  2033  adobe.exe          x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\Adobe\Adobe.exe
+
+ 2179  2105  whatsapp.exe       x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\WhatsApp\WhatsApp.exe
+
+ 2243  2179  notepad.exe        x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\notepad.exe
+
+ 2317  2243  gamelauncher.exe   x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\Games\gamelauncher.exe

